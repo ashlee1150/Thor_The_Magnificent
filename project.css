@@ -1,5 +1,5 @@
  body {
-    background-color: #D6877A;
+    background-color: #5CC157;
 	background-size: cover;
   }
   h1 {
@@ -20,8 +20,8 @@ ul.tab {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 1px solid #D6877A;
-    background-color: #D6877A;
+    border: 1px solid #5CC157;
+    background-color: #5CC157;
 }
 
 /* Float the list items side by side */
@@ -42,7 +42,7 @@ ul.tab li a {
 ul.tab li a:hover {background-color: #d7b1ba;}
 
 /* Create an active/current tablink class */
-ul.tab li a:focus, .active {background-color: #d7b1ba;}
+ul.tab li a:focus, .active {background-color: #5CC157;}
 
 /* Style the tab content */
 .tabcontent {

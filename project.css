@@ -5,12 +5,14 @@
   h1 {
   text-align: center;
   text-decoration: underline;
-  font-size: 60px;  
+  font-size: 60px;   
   font-family: Garamond,serif
-  
 }
 h1{
   color: #F2E62B
+}
+h1{
+  text-shadow: -1px 0 #827B19, 0 1px #827B19, 1px 0 #827B19, 0 -1px #827B19
 }
 img {
   width: 300px;

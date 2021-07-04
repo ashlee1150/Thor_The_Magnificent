@@ -1,5 +1,5 @@
  body {
-    background-color: #97F089;
+    background-color: #87D67A;
 	background-size: cover;
   }
   h1 {
@@ -20,8 +20,8 @@ ul.tab {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 1px solid #cfa0ab;
-    background-color: #cfa0ab;
+    border: 1px solid #87D67A;
+    background-color: #87D67A;
 }
 
 /* Float the list items side by side */

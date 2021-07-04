@@ -42,13 +42,13 @@ ul.tab li a {
 ul.tab li a:hover {background-color: #d7b1ba;}
 
 /* Create an active/current tablink class */
-ul.tab li a:focus, .active {background-color: #5CC157;}
+ul.tab li a:focus, .active {background-color: #d7b1ba;}
 
 /* Style the tab content */
 .tabcontent {
     display: none;
     padding: 6px 12px;
-    border: 1px solid #c68f9c;
+    border: 1px solid #5CC157;
     border-top: none;
 }
 .tabcontent {

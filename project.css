@@ -36,7 +36,7 @@ ul.tab {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 1px solid #5CC157;
+    border: 3px solid #3F833C;
     background-color: #5CC157;
 }
 
@@ -52,13 +52,14 @@ ul.tab li a {
     text-decoration: none;
     transition: 0.3s;
     font-size: 17px;
+
 }
 
 /* Change background color of links on hover */
-ul.tab li a:hover {background-color: #d7b1ba;}
+ul.tab li a:hover {background-color: #3F833C;}
 
 /* Create an active/current tablink class */
-ul.tab li a:focus, .active {background-color: #d7b1ba;}
+ul.tab li a:focus, .active {background-color: #3F833C;}
 
 /* Style the tab content */
 .tabcontent {

@@ -3,9 +3,10 @@
     background-color: #5CC157;
 	background-size: cover;
   }
+  
   h1 {
   position: absolute;
-  top:-50px;
+  top:-40px;
   left:0px;
   #text-align: center;
   text-decoration: underline;
@@ -36,7 +37,7 @@ img {
 /*tab code */
 ul.tab {
     position: fixed;
-    top:100px;
+    top:120px;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -68,6 +69,8 @@ ul.tab li a:focus, .active {background-color: #3F833C;}
 
 /* Style the tab content */
 .tabcontent {
+    position:absolute;
+    top: 200px;
     display: none;
     padding: 6px 12px;
     border: 10px solid #5CC157;

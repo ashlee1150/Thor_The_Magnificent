@@ -1,7 +1,7 @@
 
 body {
-    background-image: url(thor-background.jpg);
-    background-position:center 20%;
+    background-image: url(thor-bg.jpg);
+    background-position:center top 35%;
     background-size:cover;
     background-repeat:no-repeat;
     background-attachment:fixed;

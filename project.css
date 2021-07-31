@@ -9,10 +9,10 @@ body {
   
   h1 {
   position: absolute;
-  top:-20px;
+  top:-10px;
   left:0px;
   #text-align: center;
-  font-size: 30px;   
+  font-size: 40px;   
   font-family: Garamond,serif 
 }
 
@@ -44,8 +44,8 @@ ul.tab {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 3px solid #3F833C;
-    background-color: #5CC157;
+    #border: 3px solid #3F833C;
+    #background-color: #5CC157;
 }
 
 /* Float the list items side by side */
@@ -58,13 +58,13 @@ ul.tab li a {
     text-align: center;
     padding: 15px 135.95px;
     text-decoration: none;
-    transition: 0.3s;
+    -webkit-transition: color 1s; /* For Safari 3.0 to 6.0 */
     font-size: 17px;
 
 }
 
 /* Change background color of links on hover */
-ul.tab li a:hover {background-color: #3F833C;}
+ul.tab li a:hover {color: coral}
 
 /* Create an active/current tablink class */
 ul.tab li a:focus, .active {background-color: #3F833C;}

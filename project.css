@@ -78,10 +78,9 @@ ul.tab li a {
 
 /* Change background color of links on hover */
 ul.tab li a:hover {color: coral}
-ul.maintab li a:hover {color: white}
+ul.maintab li a:hover {color: #f5ec60}
 /* Create an active/current tablink class */
-ul.maintab li a:focus, .active {background-color: pink;}
-ul.tab li a:focus, .active {background-color: #3F833C;}
+
 
 /* Style the tab content */
 .tabcontent {

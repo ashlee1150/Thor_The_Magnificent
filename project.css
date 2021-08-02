@@ -37,6 +37,16 @@ img {
   display: block;
 }
 /*tab code */
+ul.maintab{
+  font-family: times new roman;
+
+}
+ul.maintab li a{
+  text-decoration: none;
+  font-size: 40px;
+  color: #F2E62B;
+}
+
 ul.tab {
     position: fixed;
     font-family: Arial;
@@ -49,7 +59,6 @@ ul.tab {
     #border: 3px solid #3F833C;
     #background-color: #5CC157;
 }
-
 
 
 /* Float the list items side by side */

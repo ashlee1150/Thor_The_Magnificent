@@ -38,6 +38,7 @@ img {
 /*tab code */
 ul.maintab{
   font-family: times new roman;
+  list-style-type: none;
 
 }
 ul.maintab li a{
